@@ -64,5 +64,33 @@ streamlit run app.py
 - Accuracy: ~98%
 
 ## 👨‍💻 Author
+## Screenshots
 
+### Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### Genuine Job Prediction
+
+![Genuine](screenshots/genuine_prediction.png)
+
+---
+
+### Fake Job Prediction
+
+![Fake](screenshots/fake_prediction.png)
+
+---
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
+---
+
+### Classification Report
+
+![Report](screenshots/classification_report.png)
 Suhail Ahamed
